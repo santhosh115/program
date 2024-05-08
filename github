@@ -1,0 +1,25 @@
+Git hub is a web based platform where developers can store, create and manage computer files based on software models.
+it is mainly used for collaborative working on real time projects.
+
+git hub------->git-------->local storage
+
+Git- software tool which used to track the changes, made in software projects.
+
+						main repository
+								|
+					------------------------------------------
+				push	| pull			|			|
+
+				sub repo1		sub repo2		sub repo3
+			    commit	| update		|			|
+				working repo	working repo	working repo
+
+
+Git commands
+
+1) git clone------> clone GitHub repository to local folder.
+
+local folder ------>git hub
+git commit
+git push
+git add
